@@ -67,5 +67,5 @@ Agregar al modelo estos objetos:
 - una _cajita_ roja de cobre, que tiene un objeto adentro. 
   Este objeto puede ser cualquiera de los definidos previamente, y puede cambiar.
   El peso de la cajita es de 400 gramos más el peso de lo que tiene adentro.
-    
+  
   
